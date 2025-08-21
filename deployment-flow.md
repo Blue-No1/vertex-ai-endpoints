@@ -4,3 +4,4 @@
 2. Create model in Vertex AI Model Registry.
 3. Deploy to endpoint (select machine type).
 4. Send inference requests via REST API.
+> ⚠️ Draft only
